@@ -6,3 +6,6 @@ This is a test project
 2. Migrating to TypeScript using NestJS
 
 DB: Postgres
+
+
+**since the project is a test one, we do not add .env, config.js to gitignore
